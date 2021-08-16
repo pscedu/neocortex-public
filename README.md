@@ -1,7 +1,7 @@
 # Public Neocortex Configurations and Scripts Repository
 
 ## Description
-The _Neocortex_ system is integrated by a Superdome Flex server that is split into two socket-partitions, 
+The <a target="_blank" href="https://www.cmu.edu/psc/aibd/neocortex/index.html">_Neocortex_ system</a> is integrated by a Superdome Flex server that is split into two socket-partitions, 
 each one with four individual chassis, and each chassis with 4 CPUs of 28 cores each, 8 NVMe flash drives, 
 2 InfiniBand interfaces, and 3 100Gb Ethernet interfaces; and two CS-1 boxes.
 
